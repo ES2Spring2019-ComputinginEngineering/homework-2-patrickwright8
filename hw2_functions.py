@@ -5,7 +5,7 @@
 #*****************************************
 # YOUR NAME: Patrick Wright
 # NUMBER OF HOURS TO COMPLETE: 1.5, 2-2.5 with extra credit (please track how long this homework takes you to complete).
-# YOUR COLLABORATION STATEMENT(s) (refer to syllabus): None
+# YOUR COLLABORATION STATEMENT(s) (refer to syllabus): I worked alone on this assignment.
 #
 #*****************************************
 
